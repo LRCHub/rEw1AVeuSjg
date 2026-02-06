@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ショック！",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T19:32:23.380491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋はスリル、ショック、サスペンス",
+      "artist": "愛内里菜",
+      "has_synced": true,
+      "path": "select/01_恋はスリル、ショック、サスペンス_愛内里菜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トーキョー・ショック feat. COMA-CHI",
+      "artist": "Rhymester",
+      "has_synced": false,
+      "path": "select/02_トーキョー・ショック_feat._COMA-CHI_Rhymester.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shock! [ショック!]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Shock!_[ショック!]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "戀はスリル,ショック,サスペンス",
+      "artist": "愛内里菜",
+      "has_synced": true,
+      "path": "select/04_戀はスリル,ショック,サスペンス_愛内里菜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋はスリル、ショック、サスペン",
+      "artist": "愛内里菜",
+      "has_synced": true,
+      "path": "select/05_恋はスリル、ショック、サスペン_愛内里菜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋はスリル、ショック、サスペンス",
+      "artist": "愛内里菜",
+      "has_synced": true,
+      "path": "select/06_恋はスリル、ショック、サスペンス_愛内里菜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋はスリル、ショック、サスペンス",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/07_恋はスリル、ショック、サスペンス_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ショック!",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ショック!_サカナクション.txt"
+    }
+  ]
+}
